@@ -168,16 +168,15 @@
 ---
 
 
-
+<div align = "center">
 <table>
   <tr>
     <td align="center"><a href="https://github.com/kwonay11"><img src="https://avatars.githubusercontent.com/u/50578895?v=4" width="100px;" alt=""/><br /><sub><b>예빈</b><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/></sub></a><br /></td>
     <td align="center"><a href="https://github.com/bomin1"><img src="https://avatars.githubusercontent.com/u/73024054?v=4" width="100px;" alt=""/><br /><sub><b>보민</b><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/></sub></a><br /></td>
     <td align="center"><a href="https://github.com/zero-bacteria"><img src="https://avatars.githubusercontent.com/u/77529078?v=4" width="100px;" alt=""/><br /><sub><b>영균</b></sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/></a><br /></td>
     <td align="center"><a href="https://github.com/kimyunbin"><img src="https://avatars.githubusercontent.com/u/50879954?v=4" width="100px;" alt=""/><br /><sub><b>윤빈</b></sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/></a><br /></td>
-
   </tr>
 </table>
-
+</div>
 
 
