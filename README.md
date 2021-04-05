@@ -50,7 +50,9 @@
 
 - (21.02.16)
 
-  [SWEA_1954_달팽이 숫자](Study/1주차/1954_달팽이 숫자/readme.md)
+  [SWEA_1954_달팽이 숫자](Study/Week_1/1954_달팽이 숫자/readme.md)
+
+  [영어???](Study/read.md)
 
 ### 2주차
 
