@@ -61,7 +61,13 @@
 
    ![image-20210405220540790](tutorial.assets/image-20210405220540790.png)
 
-8. sd
+8. merge 한 commit을 남기는 창으로 들어옵니다. `:wq`를 쓰고 엔터! 
+
+   만약 커밋메시지를 바꾸고 싶다면 `i` 누른뒤 커밋메시지를 작성 후 `esc` 를 눌려 `insert`를 종료합니다. 이후 `:wq` 로 vim을 종료 시켜줍니다. 
+
+   ![image-20210405224558299](tutorial.assets/image-20210405224558299.png)
+
+   ![image-20210405224619312](tutorial.assets/image-20210405224619312.png)
 
 9. `git push origin master` 를 해서 원격 레포에 올려줍니다. 
 
