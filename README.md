@@ -138,9 +138,25 @@
 
   [SWEA_1961_숫자 배열 회전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pq-OKAVYDFAUq&categoryId=AV5Pq-OKAVYDFAUq&categoryType=CODE&problemTitle=1961&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
 
-  [SWEA_1974_스도쿠 검증](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Psz16AYEDFAUq&categoryId=AV5Psz16AYEDFAUq&categoryType=CODE&problemTitle=1974&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+  [SWEA_1974_스도쿠 검증
+  
+  [](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Psz16AYEDFAUq&categoryId=AV5Psz16AYEDFAUq&categoryType=CODE&problemTitle=1974&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
 
 
+
+
+
+---
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/kwonay11"><img src="https://avatars.githubusercontent.com/u/50578895?v=4" width="100px;" alt=""/><br /><sub><b>예빈</b><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/bomin1"><img src="https://avatars.githubusercontent.com/u/73024054?v=4" width="100px;" alt=""/><br /><sub><b>보민</b><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/zero-bacteria"><img src="https://avatars.githubusercontent.com/u/77529078?v=4" width="100px;" alt=""/><br /><sub><b>영균</b></sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/></a><br /></td>
+    <td align="center"><a href="https://github.com/kimyunbin"><img src="https://avatars.githubusercontent.com/u/50879954?v=4" width="100px;" alt=""/><br /><sub><b>윤빈</b></sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/></a><br /></td>
+
+  </tr>
+</table>
 
 
 
