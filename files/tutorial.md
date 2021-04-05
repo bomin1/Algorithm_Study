@@ -53,13 +53,17 @@
 
 7. `git merge 자신의 브랜치` 로컬 레포를 `merge` 시켜줍니다. 
 
+   
+
    ```bash
    $ git merge yunbin
    ```
 
    ![image-20210405220540790](tutorial.assets/image-20210405220540790.png)
 
-8. `git push origin master` 를 해서 원격 레포에 올려줍니다. 
+8. sd
+
+9. `git push origin master` 를 해서 원격 레포에 올려줍니다. 
 
    ```bash
    $ git push origin master
