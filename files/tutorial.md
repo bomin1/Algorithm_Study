@@ -2,7 +2,7 @@
 
 ---
 
-⚠️시작하기전에 **꼭!!** `git pull origin master  를 해주세요!
+⚠️시작하기전에 **꼭!!** `git pull origin master`  를 해주세요!
 
 ⚠️ 자신의 브랜치에서 작업 하는것을 적극 권장합니다.(강제)
 
@@ -53,12 +53,10 @@
 
 7. `git merge 자신의 브랜치` 로컬 레포를 `merge` 시켜줍니다. 
 
-   
-
    ```bash
-   $ git merge yunbin
+$ git merge yunbin
    ```
-
+   
    ![image-20210405220540790](tutorial.assets/image-20210405220540790.png)
 
 8. merge 한 commit을 남기는 창으로 들어옵니다. `:wq`를 쓰고 엔터! 

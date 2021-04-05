@@ -33,6 +33,12 @@
 
 - [🐣튜토리얼](files/tutorial.md)을 진행하는 것으로 스터디에 참여해보세요!
 
+- 출제자 : README.md에 주차별 문제 링크 추가하기
+
+  ​				``Study/week_x/문제번호_문제이름/자기이름/input.txt`` 넣어서 깃헙에 올리기
+
+- 출제자 외 :  튜토리얼 따라하기
+
 <br>
 
 ---
@@ -89,10 +95,6 @@
   [SWEA_2007_패턴 마디의길이](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5P1kNKAl8DFAUq&categoryId=AV5P1kNKAl8DFAUq&categoryType=CODE&problemTitle=2007&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
 
   [SWEA_1225_암호 생성기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14uWl6AF0CFAYD&categoryId=AV14uWl6AF0CFAYD&categoryType=CODE&problemTitle=1225&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
-
-
-
-
 
 
 
