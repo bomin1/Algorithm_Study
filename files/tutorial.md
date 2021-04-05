@@ -16,10 +16,10 @@
 
 5. 작업끝났으면 자기 브랜치에서 commit 남기기
 
-6. 
+   ![image-20210405220014804](tutorial.assets/image-20210405220014804.png)
 
-7. master 스위치
+6. master 스위치
 
-8. merge 자기 브랜치
+7. merge 자기 브랜치
 
-9. git push add origin master 
+8. git push add origin master 
