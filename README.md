@@ -50,23 +50,23 @@
 - 스터디원 모두
 
   1. 본인 branch로 이동한 뒤, master에 있는 최신 파일 PULL 받아오기
-     
+
      ```bash
-$ git switch 본인 branch 이름
+     $ git switch 본인 branch 이름
      ```
-     
+
      ```bash
-$ git pull origin master
+     $ git pull origin master
      ```
-     
-  2. 각 주차별 해당 문제 폴더에 들어가서 
-  
-     `문제위치_문제번호_문제이름_본인이름.py`, 
-     
-     `문제위치_문제번호_문제이름_본인이름.md` 
-     
-     두 파일 추가 한 뒤, 본인 branch에서 커밋 메세지 잘 지켜 푸쉬하기
-     
+
+  2. 각 주차별 해당 문제 폴더에 들어가서
+
+     `문제위치_문제번호_문제이름_본인이름.py`,
+
+     `문제위치_문제번호_문제이름_본인이름.md`
+
+     두 파일 추가한 뒤, 본인 branch에서 커밋 메세지 잘 지켜 푸쉬하기
+
      ```bash
      $ git add .
      $ git commit -m '커밋 메세지'
@@ -201,7 +201,7 @@ $ git pull origin master
 
  ## 👀 프로필
 
----
+
 
 <div align = "center">
 <table>
