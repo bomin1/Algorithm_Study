@@ -1,21 +1,22 @@
-import sys
-sys.stdin = input('input.txt')
+
+# import sys
+# input = sys.stdin.readline 
+
+
 
 N, M = map(int,input().split())
 
-N_name = []
-M_name =[]
+N_name = [input()for _ in range(N)]
+M_name =[input() for _ in range(M)]
+N_name=set(N_name)
+M_name=set(M_name)
 
-for _ in range(N):
-    n_name = input()
-    N_name.append(n_name)
-for _ in range(M):
-    m_name = input()
-    M_name.append(m_name)
+# for 문으로 찾으면 시간초과가 남.=
+#     if N_name[i] in M_name:
+#         result.append(N_name[i])
+# set으로 참고하여 품.
+result = list(N_name& M_name)
 
-result =[]
-for i in range(N):
-    if N_name[i] not in M_name:
-        result.append(N_name)
-
-print(result)
+print(len(result))
+for i in sorted(result):
+    print(i)
