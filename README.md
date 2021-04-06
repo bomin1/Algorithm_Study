@@ -23,15 +23,55 @@
 
 ---
 
-## ❗❗ Github Push 방법❗❗
+## ❗❗ 스터디 진행 과정 및 Github Push 방법❗❗
 
 - [🐣튜토리얼](files/tutorial.md)을 진행하는 것으로 스터디에 참여해보세요!
 
-- 출제자 : README.md에 주차별 문제 링크 추가하기
+- 출제자
 
-  ​		   	**``Study/week_x/문제번호_문제이름/본인이름/input.txt``** 넣어서 깃헙에 올리기
+  1. 최신화 작업을 위해 master에서 PULL 받아오기
 
-- 출제자 외 :  튜토리얼 따라하기
+     ```bash
+     $ git pull origin master
+     ```
+
+  2. README.md에 주차별 문제 링크 추가하기
+
+  3. **``Study/week_x/문제번호_문제이름/input.txt``** 넣기
+
+  4. master에 올려주기
+
+     ```bash
+     $ git add .
+     $ git commit -m '날짜_문제번호_문제이름_출제자'
+     $ git push origin master
+     ```
+
+- 스터디원 모두
+
+  1. 본인 branch로 이동한 뒤, master에 있는 최신 파일 PULL 받아오기
+
+     ```bash
+     $ git switch 본인 branch 이름
+     ```
+
+     ```bash
+     $ git pull origin master
+     ```
+
+  2. 각 주차별 해당 문제 폴더에 들어가서
+
+     `문제위치_문제번호_문제이름_본인이름.py`,
+
+     `문제위치_문제번호_문제이름_본인이름.md`
+
+     두 파일 추가한 뒤, 본인 branch에서 커밋 메세지 잘 지켜 푸쉬하기
+
+     ```bash
+     $ git add .
+     $ git commit -m '커밋 메세지'
+     $ git push origin 본인 branch 이름
+     ```
 
 <br>
 
@@ -40,28 +80,6 @@
 ## 📨 Github Commit Message
 
 - [💡Commit Message](files/Commit_Meessage.md)을 참고해서 커밋 메시지를 작성해주세요!
-
-<br>
-
-
----
-
-## 👻 스터디 진행 규칙
-
-1. 스터디 시작 전에 문제 깃허브에 올리기
-
-2. 파일 이름은 
-
-   ``BOJ_문제번호_문제이름.py``,
-
-   ``swea_문제번호_문제이름.py``로 통일한다
-
-3. 파일 이름 규칙 (예시)
-
-   1. <span style="color:red">BOJ_1004_문제 이름.py</span>
-   2. <span style="color:red">SWEA_1004_문제 이름.py</span>
-
-4. 문제 풀고 어려운 점, 느낀점 `README.md` 작성하기
 
 <br>
 
@@ -178,9 +196,12 @@
   [BOJ_1764_듣보잡](https://www.acmicpc.net/problem/1764)
 
 <br>
-## 👀 프로필
 
 ---
+
+ ## 👀 프로필
+
+
 
 <div align = "center">
 <table>
