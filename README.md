@@ -191,7 +191,7 @@
 
 - (21.04.08)
 
-  [BOJ_8012_한동이는 영업사원](https://www.acmicpc.net/problem/8012)
+  [BOJ_1365_꼬인 전깃줄](https://www.acmicpc.net/problem/1365)
 
   [BOJ_1764_듣보잡](https://www.acmicpc.net/problem/1764)
 
