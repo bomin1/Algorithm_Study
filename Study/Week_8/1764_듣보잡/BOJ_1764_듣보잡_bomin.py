@@ -1,10 +1,31 @@
 import sys
 sys.stdin = open("input.txt")
+#
+# n,m = list(map(int, input().split()))
+#
+# a = set()
+# b = set()
+# for i in range(n):
+#     a.add(input())
+# for i in range(m):
+#     b.add(input())
+#
+# res = sorted(list(a&b))
+# print(len(res))
+# for val in res:
+#     print(val)
 
-T = int(input())
 
+n,m = list(map(int, input().split()))
 
-for tc in range(1, T+1):
-    
-    print("#{} ".format(tc, ))
+a = []
+b = []
+for i in range(n):
+    a.append(input())
+for i in range(m):
+    b.append(input())
 
+res = sorted(list(a&b))
+print(len(res))
+for val in res:
+    print(val)
