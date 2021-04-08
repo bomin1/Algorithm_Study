@@ -195,6 +195,10 @@
 
   [BOJ_1764_듣보잡](https://www.acmicpc.net/problem/1764)
 
+### [9주차](Study/Week_9)
+- (21.04.13)
+- [BOJ_1365_꼬인 전깃줄](https://www.acmicpc.net/problem/1365)
+
 <br>
 
 ---
