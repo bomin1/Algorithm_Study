@@ -43,7 +43,7 @@
 
      ```bash
      $ git add .
-     $ git commit -m '날짜_문제번호_문제이름_출제자'
+     $ git commit -m '날짜_사이트_문제번호_문제이름_출제자'
      $ git push origin master
      ```
 
