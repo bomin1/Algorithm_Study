@@ -194,6 +194,8 @@
   [BOJ_1365_꼬인 전깃줄](https://www.acmicpc.net/problem/1365)
 
   [BOJ_1764_듣보잡](https://www.acmicpc.net/problem/1764)
+  
+  [BOJ_20364_부동산 다툼](https://www.acmicpc.net/problem/20364)
 
 
 
