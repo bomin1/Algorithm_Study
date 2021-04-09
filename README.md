@@ -201,7 +201,7 @@
   
   [BOJ_20364_부동산 다툼](https://www.acmicpc.net/problem/20364)
   
-  [BOJ 9372 상근이의 여행](https://www.acmicpc.net/problem/9372)
+  [BOJ_9372_상근이의 여행](https://www.acmicpc.net/problem/9372)
   
   
 
