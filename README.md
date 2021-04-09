@@ -200,6 +200,10 @@
 - (21.04.13)
   
   [BOJ_20364_부동산 다툼](https://www.acmicpc.net/problem/20364)
+  
+  [BOJ 9372 상근이의 여행](https://www.acmicpc.net/problem/9372)
+  
+  
 
 
 
