@@ -196,8 +196,16 @@
   [BOJ_1764_듣보잡](https://www.acmicpc.net/problem/1764)
 
 ### [9주차](Study/Week_9)
+
 - (21.04.13)
-- [BOJ_1365_꼬인 전깃줄](https://www.acmicpc.net/problem/1365)
+  
+  [BOJ_20364_부동산 다툼](https://www.acmicpc.net/problem/20364)
+  
+  [BOJ_9372_상근이의 여행](https://www.acmicpc.net/problem/9372)
+  
+  
+
+
 
 <br>
 
