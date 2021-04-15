@@ -76,17 +76,17 @@
      $ git push origin 본인 branch 이름
      ```
      
-  3. 스터디 끝나고 Merge가 완료된 후 브랜치 삭제하기
+  3. 스터디 끝나고 Merge가 완료된 후 branch 삭제하기
 
-     - 관리자가 원격에 있는 브랜치는 삭제한 상태이므로 로컬 브랜치 삭제해주기
+     >  관리자가 원격에 있는 브랜치는 삭제한 상태이므로 로컬  branch만 삭제해주기
 
-     1. ```bash
-        $ git switch master
-        
-        (master)
-        $ git pull origin master  
-        $ git branch -d 김이름
-        ```
+     ```bash
+     $ git switch master
+     
+     (master)
+     $ git pull origin master  
+     $ git branch -d 본인 branch 이름
+     ```
 
 <br>
 
