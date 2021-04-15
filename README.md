@@ -37,13 +37,16 @@
 
   2. README.md에 주차별 문제 링크 추가하기
 
-  3. **``Study/week_x/문제번호_문제이름/input.txt``** 넣기
+     1. 스터디 이루어지는 날 작성 `ex) (21.01.01)`
+     2. 문제 추가 `ex) 사이트_문제번호_문제이름`
+
+  3. **``Study/week_x/사이트_문제번호_문제이름/input.txt``** 넣기
 
   4. master에 올려주기
 
      ```bash
      $ git add .
-     $ git commit -m '날짜_사이트_문제번호_문제이름_출제자'
+     $ git commit -m '출제날짜_사이트_문제번호_문제이름_출제자'
      $ git push origin master
      ```
 
@@ -72,6 +75,18 @@
      $ git commit -m '커밋 메세지'
      $ git push origin 본인 branch 이름
      ```
+     
+  3. 스터디 끝나고 Merge가 완료된 후 브랜치 삭제하기
+
+     - 관리자가 원격에 있는 브랜치는 삭제한 상태이므로 로컬 브랜치 삭제해주기
+
+     1. ```bash
+        $ git switch master
+        
+        (master)
+        $ git pull origin master  
+        $ git branch -d 김이름
+        ```
 
 <br>
 
@@ -202,10 +217,16 @@
   [BOJ_20364_부동산 다툼](https://www.acmicpc.net/problem/20364)
   
   [BOJ_9372_상근이의 여행](https://www.acmicpc.net/problem/9372)
+
+- (21.04.15)
+
+  [BOJ_13305_주유소](https://www.acmicpc.net/problem/13305)
+
+### [10주차](Study/Week_10)
+
+* (21.04.20)
+
   
-  [BOJ 13305 주유소](https://www.acmicpc.net/problem/13305)
-
-
 
 <br>
 
