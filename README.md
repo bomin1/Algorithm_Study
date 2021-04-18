@@ -230,7 +230,7 @@
 
   [BOJ_11501_주식](https://www.acmicpc.net/problem/11501)
   
-  
+  [BOJ_2217_로프](https://www.acmicpc.net/problem/2217)
 
 <br>
 
