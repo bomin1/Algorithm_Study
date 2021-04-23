@@ -241,7 +241,7 @@
 
   [BOJ_6064_카잉달력](https://www.acmicpc.net/problem/6064)
 
-  
+  [BOJ_1946_신입사원](https://www.acmicpc.net/problem/1946)
 
 <br>
 
