@@ -82,5 +82,5 @@ else:
 
 
 
-![image-20210418225932645](BOJ_2217_로프_yunbin.assets/image.png)
+![image-20210418225932645](./BOJ_2217_로프_yunbin.assets/image.png)
 
