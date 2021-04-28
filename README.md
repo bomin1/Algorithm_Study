@@ -245,6 +245,10 @@
   
   [BOJ_12100_2048](https://www.acmicpc.net/problem/12100)
 
+* (21.04.29)
+
+  [BOJ 2644 촌수계산](https://www.acmicpc.net/problem/2644)
+
 <br>
 
 ---
@@ -263,4 +267,3 @@
   </tr>
 </table>
 </div>
-
