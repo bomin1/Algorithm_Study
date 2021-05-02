@@ -4,7 +4,6 @@ from collections import deque
 
 T=1
 
-
 def cal():
     q = deque()
     # 내가 찾아야 할 위치를 제일 처음 큐에 넣어준 다음
