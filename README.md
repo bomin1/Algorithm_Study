@@ -256,6 +256,8 @@
   [BOJ_14501_퇴사](https://www.acmicpc.net/problem/14501)
   
   [BOJ_1026_보물](https://www.acmicpc.net/problem/1026)
+  
+  [BOJ_1024_어린왕자](https://www.acmicpc.net/problem/1004)
 
 <br>
 
