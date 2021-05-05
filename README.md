@@ -259,6 +259,10 @@
   
   [BOJ_1024_어린왕자](https://www.acmicpc.net/problem/1004)
 
+* (21.05.06)
+
+  [BOJ 7785 회사에 있는 사람](https://www.acmicpc.net/problem/7785)
+
 <br>
 
 ---
