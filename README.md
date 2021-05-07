@@ -269,6 +269,8 @@
 
   [BOJ_14889_스타트와링크](https://www.acmicpc.net/problem/14889)
 
+  [BOJ_14916_거스름돈](https://www.acmicpc.net/problem/14916)
+  
   
 
 <br>
