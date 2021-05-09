@@ -4,7 +4,7 @@ input = sys.stdin.readline
 
 T = int(input()) # 테케
 # 행성계 진입/이탈 횟수를 최소화
-for tc in range(T+1):
+for tc in range(T):
     x1, y1, x2, y2 = map(int, input().split())
     n = int(input()) # 행성계의 개수
     cnt = 0
