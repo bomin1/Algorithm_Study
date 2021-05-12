@@ -90,7 +90,7 @@ for word, length in sorted_word_info:
 
 ```
 
- ![image-20210511150314315](1181_단어정렬.assets/image-20210511150314315.png)
+ ![image-20210511150314315](solution_Bomin.assets/image-20210511150314315.png)
 
 ```python
 n = int(input())
@@ -115,7 +115,7 @@ for len, res in result:
 
 ```
 
-   ![image-20210511150325931](1181_단어정렬.assets/image-20210511150325931.png)
+   ![image-20210511150325931](solution_Bomin.assets/image-20210511150325931.png)
 
 ## Review
 
