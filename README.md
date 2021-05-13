@@ -55,7 +55,7 @@
   1. 본인 branch로 이동한 뒤, master에 있는 최신 파일 PULL 받아오기
 
      ```bash
-     $ git switch 본인 branch 이름
+     $ git switch 본인branch이름
      ```
 
      ```bash
@@ -73,13 +73,17 @@
      ```bash
      $ git add .
      $ git commit -m '커밋 메세지'
-     $ git push origin 본인 branch 이름
+     $ git push origin 본인branch이름
      ```
      
-  3. 스터디 끝나고 Merge가 완료된 후 branch 삭제하기
+  3. 레포로 다시 돌아와서 Pull requests 탭 들어온 다음에 create pull request 까지만하기
 
+     Merge❌❌❌
+
+  4. 스터디 끝나고 Merge가 완료된 후 branch 삭제하기
+  
      >  관리자가 원격에 있는 브랜치는 삭제한 상태이므로 로컬  branch만 삭제해주기
-
+  
      ```bash
      $ git switch master
      
@@ -294,6 +298,7 @@
     <td align="center"><a href="https://github.com/bomin1"><img src="https://avatars.githubusercontent.com/u/73024054?v=4" width="100px;" alt=""/><br /><sub><b>보민</b><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/></sub></a><br /></td>
     <td align="center"><a href="https://github.com/zero-bacteria"><img src="https://avatars.githubusercontent.com/u/77529078?v=4" width="100px;" alt=""/><br /><sub><b>영균</b></sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/></a><br /></td>
     <td align="center"><a href="https://github.com/kimyunbin"><img src="https://avatars.githubusercontent.com/u/50879954?v=4" width="100px;" alt=""/><br /><sub><b>윤빈</b></sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/></a><br /></td>
+    <td align="center"><a href="https://github.com/chanin-shim"><img src="https://avatars.githubusercontent.com/u/77476360?v=4" width="100px;" alt=""/><br /><sub><b>찬인</b></sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/></a><br /></td>
   </tr>
 </table>
 </div>
