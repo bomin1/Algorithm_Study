@@ -281,6 +281,12 @@
 
   [BOJ_2169_로봇 조종하기](https://www.acmicpc.net/problem/2169)
 
+### [14주차](Study/Week_14)
+
+* (21.05.18)
+
+  [BOJ_18187_평면분할](https://www.acmicpc.net/problem/18187)
+
 
 
 <br>
