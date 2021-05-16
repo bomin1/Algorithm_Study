@@ -289,6 +289,8 @@
   
   [BOJ_7576_토마토](https://www.acmicpc.net/problem/7576)
   
+  [BOJ_2357_최솟값과 최댓값](https://www.acmicpc.net/problem/2357)
+  
   
 
 <br>
